@@ -4,7 +4,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 from scipy.signal import butter, filtfilt, freqz
 
-# Parámetros básicos
+# Parámetros básicos 
 fs = 1000  # Frecuencia de muestreo (Hz)
 t = np.linspace(0, 1, fs)  # 1 segundo de duración
 
