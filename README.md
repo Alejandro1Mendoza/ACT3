@@ -1,5 +1,4 @@
-# Actividad formativa 3. 
-# Implementación y evaluación de filtros digitales 
+# Actividad formativa 3. Implementación y evaluación de filtros digitales 
 
 Explicación: Etapa	Descripción
 
